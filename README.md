@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Teddy
 #### Machine learning and AI
-![Machine learning and AI](https://photos.google.com/search/_e%2Fm%2F09xbm8_Book%20Cover/photo/AF1QipMecPLkiNrvQ_1nsiFtpT3xf804QrvmY5xHjwVm)
+![Machine learning and AI]
+(https://github.com/lone971/lone971/blob/main/IMG_20231214_184531_835~2.jpg)
 
 I'm a machine learning and AI enthusiast from Kenya. I'm passionate about developing intelligent systems that can solve real-world problems. I'm currently learning Django and Python, and I'm excited to see what I can build with these tools.
 

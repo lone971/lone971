@@ -6,7 +6,13 @@ I'm a machine learning and AI enthusiast from Kenya. I'm passionate about develo
 
 Skills:  JS / HTML / CSS/Django/Python/C++
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on My company 
+- 🌱 I’m currently learning Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lone971)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tedd Skyhook)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tedie,la/)  
+
+.
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lone971)](https://github.com/anuraghazra/github-readme-stats)
 
 

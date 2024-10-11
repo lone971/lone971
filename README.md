@@ -4,7 +4,7 @@
 
 I'm a machine learning and AI enthusiast from Kenya. I'm passionate about developing intelligent systems that can solve real-world problems. I'm currently learning Django and Python, and I'm excited to see what I can build with these tools.
 
-Skills:  JS / HTML / CSS/Django/Python/C++
+Skills:  /Django/Python/C++/Flutter/tensorflow/keras/numpy/pandas
 
 - 🔭 I’m currently working on My company 
 - 🌱 I’m currently learning Python 
